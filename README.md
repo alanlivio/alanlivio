@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-- I'm currently a researcher at [TeleMídia Lab](http://www.telemidia.puc-rio.br/).
-- I maintain the open-source implementation of [PUC-Rio Ginga](https://github.com/TeleMidia/ginga) for the SBTVD/ITU TV middleware standard.
-- I also maintain [shell-helpers](http://github.com/alanlivio/shell-helpers/) and [cpp-cmake-template](https://github.com/alanlivio/cpp-cmake-template/) in my free time.
-- Contact me at alan@telemidia.puc-rio.br.
-
+- I'm currently a researcher at [LASP, UCL](https://laspucl2016.com/).
+- I maintain the [PUC-Rio Ginga](https://github.com/TeleMidia/ginga) for the SBTVD/ITU TV middleware standard, [shell-helpers](http://github.com/alanlivio/shell-helpers/), and [cpp-cmake-template](https://github.com/alanlivio/cpp-cmake-template/) in my free time.
 
 <!-- status codes -->
 <p>
