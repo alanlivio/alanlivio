@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-See more about me at my [website](https://alanlivio.github.io/website).
+See more about me at [https://alanlivio.github.io](https://alanlivio.github.io).
+
+
+See my github interactions bellow.
 
 <!-- status codes -->
 <p>
